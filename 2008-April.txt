@@ -1,0 +1,72 @@
+From correo at sevein.com  Sun Apr 27 00:58:24 2008
+From: correo at sevein.com (=?UTF-8?B?SmVzw7pzIEdhcmPDrWE=?= Crespo)
+Date: Sun, 27 Apr 2008 00:58:24 +0200
+Subject: [Chita-developer] Chita resurge
+In-Reply-To: <c757b6050510211301v333792cet@mail.gmail.com>
+References: <c757b6050510211301v333792cet@mail.gmail.com>
+Message-ID: <20080427005824.0e51ef6c@jesus.sevein.red>
+
+El Fri, 21 Oct 2005 22:01:23 +0200
+Jose M? Calvillo aka Lechucks <lechucks at gmail.com> escribi?:
+
+> Despues de ver cosas como esta
+> http://developer.berlios.de/project/stats/?group_id=3332
+> los posibles usuarios estan interesados, voy retomar este proyecto y
+> acabar algo cueste lo que cueste, ireis teniendo noticias de como va
+> el proyecto.
+> Un saluete developers.
+
+tres a?os despu?s...
+
+?aqu? estamos esperando! :)
+
+-- 
+Jes?s Garc?a Crespo
+
+
+From penyaskito at gmail.com  Sun Apr 27 01:09:48 2008
+From: penyaskito at gmail.com (=?UTF-8?Q?Christian_L=C3=B3pez_Esp=C3=ADnola?=)
+Date: Sun, 27 Apr 2008 01:09:48 +0200
+Subject: [Chita-developer] Chita resurge
+In-Reply-To: <20080427005824.0e51ef6c@jesus.sevein.red>
+References: <c757b6050510211301v333792cet@mail.gmail.com>
+	<20080427005824.0e51ef6c@jesus.sevein.red>
+Message-ID: <e8254e3c0804261609x5d058ba0j2cd57dc91b4f3167@mail.gmail.com>
+
+S?iiiii
+
+?Nos hacemos un cliente de IRC en C#? Espera... esa ventana no estaba
+ah?... un rendezvous de esos!!!
+
+2008/4/27 Jes?s Garc?a Crespo <correo at sevein.com>:
+> El Fri, 21 Oct 2005 22:01:23 +0200
+>  Jose M? Calvillo aka Lechucks <lechucks at gmail.com> escribi?:
+>
+>
+>  > Despues de ver cosas como esta
+>  > http://developer.berlios.de/project/stats/?group_id=3332
+>  > los posibles usuarios estan interesados, voy retomar este proyecto y
+>  > acabar algo cueste lo que cueste, ireis teniendo noticias de como va
+>  > el proyecto.
+>  > Un saluete developers.
+>
+>  tres a?os despu?s...
+>
+>  ?aqu? estamos esperando! :)
+>
+>  --
+>  Jes?s Garc?a Crespo
+>
+> _______________________________________________
+>  Chita-developer mailing list
+>  Chita-developer at lists.berlios.de
+>  https://lists.berlios.de/mailman/listinfo/chita-developer
+>
+
+
+
+-- 
+Regards,
+
+Christian L?pez Esp?nola
+

@@ -1,0 +1,80 @@
+From lechucks at gmail.com  Wed Apr  6 10:03:15 2005
+From: lechucks at gmail.com (=?ISO-8859-1?Q?Jose_M=AA_Calvillo_aka_Lechucks?=)
+Date: Wed, 6 Apr 2005 10:03:15 +0200
+Subject: [Chita-developer] Inauguracion de la Lista
+Message-ID: <c757b60505040601033c79ca91@mail.gmail.com>
+
+Empezamos con buen pie,un proyecto apasionante que nos otorgara
+soltura y respeto con c#. Estamos a punto de crear un programa
+virtuoso,que nos haga la vida diaria mas f?cil. CHITAAAAAA AAAAaaaAAA.
+
+Ayer Tuesday 5 April 2005 estuve hablando con phobeo y me comento que
+podriamos hacer un cliente de irc a 3 capas para diferenciar una serie
+de cosas como el dise?o y asi poderlo hacer multiplataforma y dividir
+la l?gica del dise?o .
+Para hacerlo atractivo he pensao que podriamos utilizar tecnolog?as
+como Avalon o Cairo.
+
+-Otro tema creo importante a tratar es la inclusion de plugins
+posteriores que podrian dar mayor valor al proyecto, ejemplos faciles
+de imaginar puede ser un lector de feeds o la inclusion de reproductor
+mp3.
+
+Bienvenidos y al lio, saludOSX
+
+Primer link -> http://www.salemioche.com/irc/irc_rfcus.php
+
+-- 
+my weblog http://lechucks.bitacoras.com
+
+
+From lechucks at gmail.com  Wed Apr  6 10:09:09 2005
+From: lechucks at gmail.com (=?ISO-8859-1?Q?Jose_M=AA_Calvillo_aka_Lechucks?=)
+Date: Wed, 6 Apr 2005 10:09:09 +0200
+Subject: [Chita-developer] Primer Post.
+Message-ID: <c757b60505040601091f595f9e@mail.gmail.com>
+
+Empezamos con buen pie,un proyecto apasionante que nos otorgara
+soltura y respeto con c#. Estamos a punto de crear un programa
+virtuoso,que nos haga la vida diaria mas f?cil. CHITAAAAAA AAAAaaaAAA.
+
+Ayer Tuesday 5 April 2005 estuve hablando con phobeo y me comento que
+podriamos hacer un cliente de irc a 3 capas para diferenciar una serie
+de cosas como el dise?o y asi poderlo hacer multiplataforma y dividir
+la l?gica del dise?o .
+Para hacerlo atractivo he pensao que podriamos utilizar tecnolog?as
+como Avalon o Cairo.
+
+-Otro tema creo importante a tratar es la inclusion de plugins
+posteriores que podrian dar mayor valor al proyecto, ejemplos faciles
+de imaginar puede ser un lector de feeds o la inclusion de reproductor
+mp3.
+
+Bienvenidos y al lio, saludOSX
+
+Primer link -> http://www.salemioche.com/irc/irc_rfcus.php
+
+-- 
+my weblog http://lechucks.bitacoras.com
+
+
+From lechucks at gmail.com  Sun Apr 24 00:12:42 2005
+From: lechucks at gmail.com (=?ISO-8859-1?Q?Jose_M=AA_Calvillo_aka_Lechucks?=)
+Date: Sun, 24 Apr 2005 00:12:42 +0200
+Subject: [Chita-developer] Bueno el tiempo pasa..
+Message-ID: <c757b605050423151245327491@mail.gmail.com>
+
+El tiempo pasa inexorablemente. 
+He de decir que tenemos codigo se?ores ...tenemos potencial pero poco
+o nada se esta explotando por ahora.. Propongo una reunion formal de
+todas las partes que integran este proyecto para discutir diferentes
+posturas.
+
+Este viernes pasado el se?or laguna y un servidor estuvieron tratando
+de dise?ar parte del proyecto, tambien estuvimos mirando codigo
+perfectamente funcional.
+
+-- 
+my weblog http://lechucks.bitacoras.com
+
+
